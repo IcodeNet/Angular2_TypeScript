@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "WebApplication1/package.json"
+      ]
+    }
+  }
+}
